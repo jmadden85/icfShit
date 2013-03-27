@@ -1,0 +1,13 @@
+.icfGetStartedWrapper {
+    width:85%;
+    margin:0 auto;
+}
+
+.icfGetStartedWrapper li {
+    margin:8px 0;
+}
+
+.icfGetStartedWrapper h5 {
+    color:red;
+    margin:5px 0 0 0;
+}
